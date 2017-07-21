@@ -1,0 +1,5 @@
+﻿  function.cpp
+c:\users\think\documents\visual studio 2015\projects\自动售卖机\自动售卖机\function.cpp(312): warning C4715: “administrator::log_on”: 不是所有的控件路径都返回值
+c:\users\think\documents\visual studio 2015\projects\自动售卖机\自动售卖机\function.cpp(255): warning C4715: “vending_machine::payment”: 不是所有的控件路径都返回值
+  自动售卖机.vcxproj -> C:\Users\think\Documents\Visual Studio 2015\Projects\自动售卖机\Debug\自动售卖机.exe
+  自动售卖机.vcxproj -> C:\Users\think\Documents\Visual Studio 2015\Projects\自动售卖机\Debug\自动售卖机.pdb (Full PDB)

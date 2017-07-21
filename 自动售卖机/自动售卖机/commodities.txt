@@ -1,0 +1,9 @@
+Coca-Cola 3 60
+Sprite 4 58
+Fanta 3 60
+Mirinda 3 60
+Water 1.5 60
+Coffee 6 60
+Milk 3 60
+Juice 4 60
+Mizone 4 60
